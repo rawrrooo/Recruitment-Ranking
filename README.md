@@ -18,10 +18,10 @@ A Flask-based resume-matching system that compares applicant resumes with job de
    
 **Technologies Used**  
 
-Python
-Flask
-SQLite
-Future Improvements
-Implement NLP-based matching
-Develop a user interface
+Python,
+Flask,
+SQLite,
+Future Improvements,
+Implement NLP-based matching,
+Develop a user interface,
 Integrate with external job APIs
